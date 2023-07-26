@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertolopes-dados
 - 👀 I’m interested in Data Analysis, Data Science, Information Technology, Artificial Intelligence, Physics, History, Archeology, Paleontology, Theater, Photography and several other subjects.
 - 🌱 I’m currently learning Data Analysis, Data Science and Information Technology.
-- 💞️ I’m looking to collaborate on meaningful projects that can accommodate a beginner, hard working, enthusiastic Data Analyst like me.
+- 💞️ I’m looking to collaborate on meaningful projects in coding and no-coding tasks.
 - 📫 How to reach me: robertolopes.dados@gmail.com
 
 <!---
